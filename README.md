@@ -5,8 +5,8 @@ This project was developed as part of a Data Science Bootcamp and focuses on hel
 ---
 
 ## 🗂️ Project Structure
-├── sprint9_cvl_revision.ipynb     # Main Jupyter notebook with analysis and modeling
-├── README.md                      # Project overview and instructions
+├── sprint9_cvl_revision.ipynb     # Main Jupyter notebook with analysis and modeling  
+├── README.md                      # Project overview and instructions  
 └── data/                          # (Optional) Folder for storing data files
 
 ---
