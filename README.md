@@ -46,9 +46,8 @@ Each row represents one customer. The task is to analyze this data and build a m
 
 ## ✅ Results
 
-After preprocessing and feature scaling, we evaluated multiple models using accuracy, precision, recall, and F1-score. The best-performing model achieved:
-	•	Accuracy: ~ add actual score here
-	•	F1-Score: ~ add actual score here
+After preprocessing and feature scaling, we evaluated multiple models using accuracy, precision, recall. The best-performing model achieved:  
+	• Accuracy: ~ 82.52%
 
 The model showed solid performance in distinguishing customers who would benefit more from the Ultra plan over the Smart one, helping Megaline tailor its offerings more effectively.
 
